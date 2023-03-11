@@ -1,0 +1,5 @@
+C:\Users\50672\Desktop\A\Progra 2\BorradorParcial1\BorradorParcial1\obj\Debug\net6.0\BorradorParcial1.csproj.AssemblyReference.cache
+C:\Users\50672\Desktop\A\Progra 2\BorradorParcial1\BorradorParcial1\obj\Debug\net6.0\BorradorParcial1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50672\Desktop\A\Progra 2\BorradorParcial1\BorradorParcial1\obj\Debug\net6.0\BorradorParcial1.AssemblyInfoInputs.cache
+C:\Users\50672\Desktop\A\Progra 2\BorradorParcial1\BorradorParcial1\obj\Debug\net6.0\BorradorParcial1.AssemblyInfo.cs
+C:\Users\50672\Desktop\A\Progra 2\BorradorParcial1\BorradorParcial1\obj\Debug\net6.0\BorradorParcial1.csproj.CoreCompileInputs.cache
